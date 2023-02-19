@@ -14,8 +14,8 @@ All documentation can be found under the [Documentation](https://github.com/sker
 
 Documentation quick links:
 * Data sheet: [IcyBlue Overview Data Sheet](https://github.com/skerr92/IcyBlue/blob/main/Documentation/IcyBlue%20Feather%20Datasheet%20rev1a.pdf)
-* Board files: [EagleCAD Board Files]()
-* Schematic files: [EagleCAD Schematic Files]()
+* Board files: [EagleCAD Board Files](https://github.com/skerr92/IcyBlue/blob/main/Documentation/Lattice%20FPGA%20standard%20feather%20wing.brd)
+* Schematic files: [EagleCAD Schematic Files](https://github.com/skerr92/IcyBlue/blob/main/Documentation/Lattice%20FPGA%20standard%20feather%20wing.sch)
 
 ### Schematic ###
 
