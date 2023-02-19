@@ -1,6 +1,6 @@
 # IcyBlue Feather FPGA Development Board
 
-<image src="">
+<image src="https://github.com/skerr92/IcyBlue/blob/main/Images/IMG_0353.jpg">
 
 Welcome to the home of the IcyBlue Feather, and FPGA based development board designed to be integrated into the Adafruit Feather ecosystem of Feathers and Feather Wings.
 
