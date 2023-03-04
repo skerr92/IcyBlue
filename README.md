@@ -25,10 +25,11 @@ Represented below is the Rev 1a schematic. This is the current production schema
 
 ### Usage Examples ###
 
-All usage examples including the RGB sequence example that ships with the board can be found in the [examples directory]().
+All usage examples including the RGB sequence example that ships with the board can be found in the [examples repository](https://github.com/skerr92/ice5lp4k_examples).
 
 Examples Quick Links:
-* [RGB Blink]()
+* [RGB Blink](https://github.com/skerr92/ice5lp4k_examples/tree/master/leds)
+* [DSP Example](https://github.com/skerr92/ice5lp4k_examples/tree/master/dsp)
 
 ### Errata ###
 
